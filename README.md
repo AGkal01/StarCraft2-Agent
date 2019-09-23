@@ -1,5 +1,7 @@
 # Zerg StarCraft2Agent 
 
+![](Starcraft2-logo.jpg)
+
 # Purpose of Implementation
 This implementation is a StarCraft 2 building order to create a zerg agent 
 The purpose was to build all the essential buildings in order to obtain resources in an efficient way and to have enough Drones to build in a constant period of time, after that building queens to increase the larva production and defend the Liar, and follow series of conditions to have a balanced army in order to obtain units that can attack aerial objectives, strings units to defend and units with a faster mobility in order to cause a great harm.
